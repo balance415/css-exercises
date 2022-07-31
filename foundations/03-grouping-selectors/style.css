@@ -7,7 +7,8 @@
     background: yellow;
 }
 
-.font {
+.first,
+.second {
     font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
     font-size: 28px;
 }
